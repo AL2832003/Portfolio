@@ -4,7 +4,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #111;
+    background-color:#C0C0C0;
     color: white;
     font-family: 'Poppins', sans-serif;
     display: flex;
@@ -22,7 +22,7 @@ body {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #fff;
+    border: 3px solid #001F3F;
     margin-bottom: 20px;
 }
 
